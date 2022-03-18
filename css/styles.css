@@ -1,3 +1,5 @@
-body {
-  background: blue;
+:root {
+  --color-headings: #180656;
+  --color-body: #827e93;
+  --color-accent: #e52e00;
 }
