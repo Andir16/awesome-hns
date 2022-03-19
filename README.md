@@ -1,1 +1,1 @@
-# awesome-hns
+[![Add to Homescreen](https://img.shields.io/badge/Skynet-Add%20To%20Homescreen-00c65e?logo=skynet&labelColor=0d0d0d)](https://homescreen.hns.siasky.net/#/skylink/[AQAMPvP84IanjHdyWhexuvt7A5xwAk1q0MLEr4tHFQxeKA])
