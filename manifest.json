@@ -1,7 +1,7 @@
 {
   "name": "Awesome HNS",
   "description": "Browse awesome Handshake websites",
-  "iconPath": "./images/logo_icon.png",
+  "iconPath": "./logo_icon.png",
   "short_name": "AwesomeHNS",
   "homepage_url": "http://awesomehns/",
   "theme_color": "#ff007a",
