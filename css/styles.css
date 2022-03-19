@@ -483,3 +483,19 @@ section {
     max-width: 70%;
   }
 }
+
+/* Blocks */
+.block__header {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.block__header img {
+  width: 50%;
+}
+
+@media screen and (min-width: 1024px) {
+  .block__header img {
+    max-width: 250px;
+  }
+}
