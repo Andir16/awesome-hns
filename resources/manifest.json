@@ -4,5 +4,6 @@
   "iconPath": "./images/logo_icon.png",
   "short_name": "AwesomeHNS",
   "homepage_url": "http://awesomehns/",
+  "theme_color": "#ff007a",
   "skylink": "AQAMPvP84IanjHdyWhexuvt7A5xwAk1q0MLEr4tHFQxeKA"
 }
