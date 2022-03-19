@@ -14,6 +14,74 @@
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
   </head>
   <body>
+    <header>
+      <nav class="nav collapsible">
+        <a aria-label="Awesome HNS" class="nav__brand" href="/"
+          ><img src="images/logo.png" alt=""
+        /></a>
+        <svg class="icon icon--white nav__toggler">
+          <use href="images/icons/sprite.svg#menu"></use>
+        </svg>
+        <ul class="list nav__list collapsible__content">
+          <li class="nav__item">
+            <a target="_blank" href="/">Twitter</a>
+          </li>
+          <li class="nav__item">
+            <a target="_blank" href="/">GitHub</a>
+          </li>
+          <li class="nav__item">
+            <a target="_blank" href="/">Handshake</a>
+          </li>
+          <li class="nav__item">
+            <a target="_blank" href="/">The Shake</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <section class="block block--dark block--skewed-left hero">
+      <div class="grid">
+        <picture data-aos="zoom-in" class="hero__banner">
+          <img class="hero__image" src="images/banner.png" alt="" />
+        </picture>
+        <div class="block__header hero__content">
+          <h1 data-aos="zoom-in-up" class="block__heading">
+            Browse awesome Handshake websites
+          </h1>
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="container block__header">
+        <img src="images/handshake.png" alt="" />
+        <h2>
+          Handshake is a decentralized naming protocol powering an uncensorable,
+          secure, and trustless New Internet.
+        </h2>
+      </div>
+    </section>
+    <section class="arrow-animation">
+      <div class="arrow">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </section>
+    <section>
+      <div id="websites" class="container grid grid--1x2 grid--1x3"></div>
+    </section>
+    <footer class="footer">
+      <div class="footer__right">
+        <a href="#"><i class="fa fa-twitter"></i></a>
+        <a href="#"><i class="fa fa-github"></i></a>
+      </div>
+
+      <div class="footer__left">
+        <a aria-label="Awesome HNS" class="footer__logo" href="/"
+          ><img src="images/logo.png" alt=""
+        /></a>
+        <p>Company Name &copy; 2015</p>
+      </div>
+    </footer>
     <script src="js/main.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
