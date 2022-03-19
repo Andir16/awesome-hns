@@ -5,9 +5,10 @@ collapsibles.forEach((item) =>
   })
 );
 
-var path = "images/websites/";
+/* Needs to be empty string for deployement */
+var path = "";
 
-fetch("../resources/data.json")
+fetch("/data.json")
   .then((response) => response.json())
   .then((json) => (data = json))
   .then(() => {

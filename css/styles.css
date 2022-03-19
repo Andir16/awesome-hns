@@ -26,7 +26,7 @@ h3 {
 }
 
 h1 {
-  font-size: 7rem;
+  font-size: 5rem;
 }
 
 h2 {
@@ -47,7 +47,7 @@ p {
   }
 
   h1 {
-    font-size: 8rem;
+    font-size: 5rem;
   }
 
   h2 {
@@ -340,11 +340,11 @@ a {
   margin-right: 2rem;
 }
 
-.list--tick {
+/* .list--tick {
   list-style-image: url(../images/tick.svg);
   padding-left: 3rem;
   color: var(--color-headings);
-}
+} */
 
 .list--tick .list__item {
   padding-left: 0.5rem;
