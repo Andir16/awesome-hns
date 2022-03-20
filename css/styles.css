@@ -255,6 +255,7 @@ a {
 .card__header {
   position: relative;
   width: 100%;
+  box-shadow: 0 8px 10px -10px var(--color-body);
 }
 .card__body {
   padding: 2rem 7%;

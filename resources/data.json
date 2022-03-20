@@ -31,7 +31,7 @@
       "Screenshot": "home.hnsmemes.png"
     },
     {
-      "Title": "Chat",
+      "Title": "HNS Chat",
       "Description": "Chat based on the Handshake blockchain using Handshake names to login",
       "url": "https://hnschat/",
       "Screenshot": "hnschat.png"
@@ -58,145 +58,79 @@
       "Title": "flip.flops",
       "Description": "a free handshake email service",
       "url": "http://flip.flops/",
-      "Screenshot": "flip.flops"
+      "Screenshot": "flip.flops.png"
+    },
+    {
+      "Title": "HNSSearch",
+      "Description": "Your window into the dweb; indexing the New Internet one name at a time.",
+      "url": "http://hnssearch/",
+      "Screenshot": "hnssearch.png"
     },
     {
       "Title": "Where to?",
       "Description": "Where to? - Traffic - Driving - Walking - Cycling",
       "url": "http://thisistheway/",
-      "Screenshot": "thisistheway"
+      "Screenshot": "thisistheway.png"
     },
     {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
+      "Title": "Namecity",
+      "Description": "Domains with meaning - Choose from a growing collection of premium Handshake domains.",
+      "url": "https://namecity/",
+      "Screenshot": "namecity.png"
     },
     {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
+      "Title": "Handshake Mercenary",
+      "Description": "A free forum resource for the Handshake community.",
+      "url": "http://handshake.mercenary/",
+      "Screenshot": "handshake.mercenary.png"
     },
     {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
+      "Title": "Be Part of the New Internet - Sky Include",
+      "Description": "SkyInclude Helps You Ensure You Are Part of the New Handshake Decentralized Internet (dWeb) DNS (Domain Name Service) is using the old internet and a closed system.",
+      "url": "http://setup.skyinclude/",
+      "Screenshot": "setup.skyinclude.png"
     },
     {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
+      "Title": "durendil's domains",
+      "Description": "Here is the list of HNS domains I own. You can contact me to either buy one or to apply for a subdomain.",
+      "url": "http://domains.durendil/",
+      "Screenshot": "domains.durendil.png"
     },
     {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
+      "Title": "JiX HNS Domain Depot",
+      "Description": "A Handshake Domain Depot for the new Internet!",
+      "url": "http://jix/",
+      "Screenshot": "jix.png"
     },
     {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
+      "Title": "OutOfThisWorld",
+      "Description": "OutOfThisWorld/ shakin' the chain with handshake domains!",
+      "url": "http://blast.outofthisworld/",
+      "Screenshot": "blast.outofthisworld.png"
     },
     {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
+      "Title": "Timeline - Handshake",
+      "Description": "Handshake Timeline - Handshake since launch.",
+      "url": "http://timeline.handshake/",
+      "Screenshot": "timeline.handshake.png"
     },
     {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
+      "Title": "yhnsoo",
+      "Description": "Handshake web-sites search engine",
+      "url": "http://yhnsoo/",
+      "Screenshot": "yhnsoo.png"
     },
     {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
+      "Title": "Handshake Ecosystem",
+      "Description": "All About Handshake",
+      "url": "http://allhns/",
+      "Screenshot": "allhns.png"
     },
     {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
-    },
-    {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
-    },
-    {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
-    },
-    {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
-    },
-    {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
-    },
-    {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
-    },
-    {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
-    },
-    {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
-    },
-    {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
-    },
-    {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
-    },
-    {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
-    },
-    {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
-    },
-    {
-      "Title": "",
-      "Description": "",
-      "url": "",
-      "Screenshot": ""
+      "Title": "Proof Of Concept",
+      "Description": "Use Handshake. Make a friend.",
+      "url": "https://proofofconcept/",
+      "Screenshot": "proofofconcept.png"
     }
   ]
 }
