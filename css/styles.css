@@ -165,13 +165,7 @@ p {
   }
 }
 
-/* Arrow Text */
-.text-arrow {
-  color: var(--color-accent);
-  text-transform: uppercase;
-  font-size: 2rem;
-  font-weight: bold;
-}
+/* Arrow */
 .arrow-animation {
   margin: 5rem;
 }
