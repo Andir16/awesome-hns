@@ -26,11 +26,11 @@ h3 {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 4rem;
 }
 
 h2 {
-  font-size: 4rem;
+  font-size: 3.5rem;
 }
 
 h3 {
@@ -51,7 +51,7 @@ p {
   }
 
   h2 {
-    font-size: 4rem;
+    font-size: 3.5rem;
   }
 
   h3 {
@@ -245,7 +245,7 @@ a {
   box-shadow: 0 0 20px 10px #f3f3f3;
   overflow: hidden;
   transition: transform 0.2s ease-out;
-  margin: 5rem;
+  margin: 2rem;
 }
 
 .website-card:hover {
@@ -312,19 +312,11 @@ a {
   .grid--1x2 {
     grid-template-columns: repeat(2, 1fr);
   }
-
-  .website-card {
-    margin: 2rem;
-  }
 }
 
 @media screen and (min-width: 1024px) {
   .grid--1x3 {
     grid-template-columns: repeat(3, 1fr);
-  }
-
-  .website-card {
-    margin: 2rem;
   }
 }
 
