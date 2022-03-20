@@ -18,7 +18,7 @@ The order of the featured websites is randomized and changes each time the page 
 
 ## Missing website?
 
-If your website is missing or you now of a website that is missing, please open an issue on this GitHub Repo with the tag "missing website" and we will be sure to add it to the list.
+If your website is missing or you know of a website that is missing, please open an issue on this GitHub Repo with the tag "missing website" and we will be sure to add it to the list.
 
 ## Tech Stack
 
