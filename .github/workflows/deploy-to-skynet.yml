@@ -15,7 +15,7 @@ jobs:
           node-version: 16.x
 
       - run: npm install
-      - run: rm -r .cache
+      - run: rm -r .parcel-cache
       - run: rm -r dist
       - run: node_modules/.bin/parcel build index.html
 
