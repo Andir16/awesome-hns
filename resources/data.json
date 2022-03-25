@@ -131,6 +131,18 @@
       "Description": "Use Handshake. Make a friend.",
       "url": "https://proofofconcept/",
       "Screenshot": "proofofconcept.png"
+    },
+    {
+      "Title": "LOFiZE - The Soldier From The Future",
+      "Description": "LOFiZE has traveled back in time to free the minds of the enslaved human race.",
+      "url": "https://lofize/",
+      "Screenshot": "lofize.png"
+    },
+    {
+      "Title": "Get.MYURL",
+      "Description": "Buy domains on the new internet | Get.MYURL",
+      "url": "http://get.myurl/",
+      "Screenshot": "get.myurl.png"
     }
   ]
 }
