@@ -143,6 +143,36 @@
       "Description": "Buy domains on the new internet | Get.MYURL",
       "url": "http://get.myurl/",
       "Screenshot": "get.myurl.png"
+    },
+    {
+      "Title": "starbase/ TLD for a city of the future",
+      "Description": "Starbase is a new proposed city to be developed in Texas.",
+      "url": "https://welcome.starbase/",
+      "Screenshot": "welcome.starbase.png"
+    },
+    {
+      "Title": "examplename/ a reference Handshake domain",
+      "Description": "This is a special-use domain name for the purpose of education about the Handshake protocol and usage of Handshake domains.",
+      "url": "https://examplename/",
+      "Screenshot": "examplename.png"
+    },
+    {
+      "Title": "AboutLife",
+      "Description": "This is a no frills presentation comprising several articles which may be of benefit to physical wellbeing and hopefully will stimulate the mind.",
+      "url": "https://much.aboutlife/",
+      "Screenshot": "much.aboutlife.png"
+    },
+    {
+      "Title": "Handshake Clicker",
+      "Description": "Handshake Clicker Game",
+      "url": "https://handshake.incrementalgame/",
+      "Screenshot": "handshake.incrementalgame.png"
+    },
+    {
+      "Title": "Handshake CDN (Censorship Denial Network)",
+      "Description": "Serve any URL/IP over a decentralized CDN. The content is then accessible from a .dCDN handshake hostname. (Yes, Even Resolver Sky Links)",
+      "url": "https://hcdn/",
+      "Screenshot": "hcdn.png"
     }
   ]
 }
